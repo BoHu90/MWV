@@ -1,4 +1,3 @@
 # MWV
-The first wide-angle video quality assessment dataset.
-# MWV download
-If you want to access the dataset, please click on the link below.
+The first wide-angle video quality assessment dataset.The paper has currently been submitted to ICASSP 2025. The dataset for this paper will be released here!!!
+![](Paper.png) 
